@@ -1,19 +1,13 @@
 {
     "name": "caradoc-router",
     "description": "router for caradoc framework",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": {
     "name": "guillaume derouineau",
     "email": "admin@caradoc.fr"
     },
     "dependencies": {
-    "range-parser": "0.0.4",
-    "cookie": "0.1.0",
-    "buffer-crc32": "0.2.1",
-    "fresh": "0.2.0",
-    "methods": "0.0.1",
-    "send": "0.1.4",
-    "cookie-signature": "1.0.1"
+
     },
     "keywords": [
     "caradoc",
