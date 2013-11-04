@@ -29,6 +29,7 @@
     "main": "index",
     "readmeFilename": "Readme.md",
     "_id": "caradoc-router@0.1.0",
+    "homepage" :  "http://caradoc.fr",
     "_from": "caradoc-router@",
     "repository": {
         "type": "git",
